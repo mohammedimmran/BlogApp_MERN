@@ -1,3 +1,3 @@
 # BlogApp_MERN
 
-![](frontendClient/src/iamges/Image.JPG)
+![](frontendClient/src/images/Image.JPG)
