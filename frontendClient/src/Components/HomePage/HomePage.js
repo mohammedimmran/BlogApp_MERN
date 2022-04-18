@@ -71,7 +71,7 @@ const HomePage = () => {
                     </div>
                 </main>
             </div>
-            <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
+            <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2" style={{"margin-top":"-60px"}}>
             <img className="" src={Home} alt=""/>
         </div>
         </div>
